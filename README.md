@@ -55,11 +55,12 @@ The source code can be found at [GitHub Repository](https://github.com/aditya-na
 
 This mock food ordering app demonstrates the use of modern web technologies to create a functional and user-friendly application. It serves as a great learning project for anyone looking to enhance their skills in React and state management with Redux.
 
-Citations:
-[1] https://namastedev.com/learn/namaste-react
-[2] https://www.youtube.com/@akshaymarch7
-[3] https://jestjs.io/docs/tutorial-react
-[4] https://redux.js.org/usage/writing-tests
-[5] https://redux-toolkit.js.org/tutorials/overview
-[6] https://parceljs.org/docs/
+## Citations:
+
+[1] https://namastedev.com/learn/namaste-react  
+[2] https://www.youtube.com/@akshaymarch7  
+[3] https://jestjs.io/docs/tutorial-react  
+[4] https://redux.js.org/usage/writing-tests  
+[5] https://redux-toolkit.js.org/tutorials/overview  
+[6] https://parceljs.org/docs/  
 [7] https://tailwindcss.com/docs/installation
